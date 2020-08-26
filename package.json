@@ -55,7 +55,7 @@
 		"verbose": true
 	},
 	"dependencies": {
-		"@hapi/hapi": "^19.1.1",
+		"@hapi/hapi": "^20.0.0",
 		"@hapi/joi": "^17.1.1",
 		"@kodekeep/remote-address": "^1.0.0",
 		"lodash.get": "^4.4.2",
