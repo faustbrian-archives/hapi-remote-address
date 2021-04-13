@@ -1,5 +1,6 @@
-import { discover } from "@konceiver/remote-address";
 import Hapi from "@hapi/hapi";
+import { discover } from "@konceiver/remote-address";
+
 import { config } from "../config";
 
 export const onRequest = (request: Hapi.Request, h: Hapi.ResponseToolkit) => {

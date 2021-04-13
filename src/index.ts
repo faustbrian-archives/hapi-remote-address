@@ -1,4 +1,5 @@
 import { Server } from "@hapi/hapi";
+
 import { config } from "./config";
 import { onRequest } from "./events/request";
 
